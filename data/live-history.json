@@ -1,0 +1,1833 @@
+[
+  {
+    "_id": "legacy-20270114-01",
+    "_type": "gig",
+    "title": "Stadthalle Germering",
+    "slug": {
+      "_type": "slug",
+      "current": "20270114-stadthalle-germering"
+    },
+    "date": "2027-01-14",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Stadthalle Germering",
+    "venueUrl": "https://stadthalle-germering.de",
+    "mapsUrl": "https://maps.app.goo.gl/B8Qe2dx9CqjaBVLU8",
+    "location": "Landsberger Str. 39, 82110 Germering-Unterpfaffenhofen",
+    "description": "Stadthalle Germering , Landsberger Str. 39, 82110 Germering-Unterpfaffenhofen\nmit cOunted\nund GRAP!\nWeitere Infos folgen",
+    "relatedLinks": [
+      {
+        "label": "Stadthalle Germering",
+        "url": "https://stadthalle-germering.de"
+      },
+      {
+        "label": "Landsberger Str. 39, 82110 Germering-Unterpfaffenhofen",
+        "url": "https://maps.app.goo.gl/B8Qe2dx9CqjaBVLU8"
+      },
+      {
+        "label": "cOunted",
+        "url": "https://www.c0unted.de/"
+      },
+      {
+        "label": "GRAP!",
+        "url": "https://grap-music.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20261114-02",
+    "_type": "gig",
+    "title": "LOK Freimann",
+    "slug": {
+      "_type": "slug",
+      "current": "20261114-lok-freimann"
+    },
+    "date": "2026-11-14",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "LOK Freimann",
+    "venueUrl": "https://www.lok-freimann.de/konzerte/",
+    "mapsUrl": "https://maps.app.goo.gl/pyzAuinGz3mggio5A",
+    "location": "Gustav-Mahler-Straße 2, 80939 München-Schwabing-Freimann",
+    "description": "LOK Freimann , Gustav-Mahler-Straße 2, 80939 München-Schwabing-Freimann\nmit Ravenfield\nund Isar Punch\nWeitere Infos folgen",
+    "relatedLinks": [
+      {
+        "label": "LOK Freimann",
+        "url": "https://www.lok-freimann.de/konzerte/"
+      },
+      {
+        "label": "Gustav-Mahler-Straße 2, 80939 München-Schwabing-Freimann",
+        "url": "https://maps.app.goo.gl/pyzAuinGz3mggio5A"
+      },
+      {
+        "label": "Ravenfield",
+        "url": "https://www.ravenfield.de/"
+      },
+      {
+        "label": "Isar Punch",
+        "url": "https://isarpunch.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20261016-03",
+    "_type": "gig",
+    "title": "Sugar Shack",
+    "slug": {
+      "_type": "slug",
+      "current": "20261016-sugar-shack"
+    },
+    "date": "2026-10-16",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Sugar Shack",
+    "venueUrl": "https://www.sugarshack-muenchen.de/event-details/sandness-live-special-guest-vour",
+    "mapsUrl": "https://maps.app.goo.gl/ptPKCSdpTPQnzBG9A",
+    "location": "Atelierstr. 16, 81671 München",
+    "description": "Sugar Shack , Atelierstr. 16, 81671 München\nmit Sandness\nEinlass 19:30, Beginn 20:00",
+    "relatedLinks": [
+      {
+        "label": "Sugar Shack",
+        "url": "https://www.sugarshack-muenchen.de/event-details/sandness-live-special-guest-vour"
+      },
+      {
+        "label": "Atelierstr. 16, 81671 München",
+        "url": "https://maps.app.goo.gl/ptPKCSdpTPQnzBG9A"
+      },
+      {
+        "label": "Sandness",
+        "url": "https://sandnessofficial.com/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20260606-05",
+    "_type": "gig",
+    "title": "Hautnah Festival",
+    "slug": {
+      "_type": "slug",
+      "current": "20260606-hautnah-festival"
+    },
+    "date": "2026-06-06",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Hautnah Festival",
+    "venueUrl": "https://country-gringos.de/#hautnah-musikfestival",
+    "mapsUrl": "https://maps.app.goo.gl/QXnghYBGsnB2LJuKA",
+    "location": "Gringo City, Schnabelmoos 6, 85452 Moosinning",
+    "description": "Hautnah Festival der Country Gringos,\nGringo City, Schnabelmoos 6, 85452 Moosinning",
+    "relatedLinks": [
+      {
+        "label": "Hautnah Festival",
+        "url": "https://country-gringos.de/#hautnah-musikfestival"
+      },
+      {
+        "label": "Gringo City, Schnabelmoos 6, 85452 Moosinning",
+        "url": "https://maps.app.goo.gl/QXnghYBGsnB2LJuKA"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20260516-06",
+    "_type": "gig",
+    "title": "Rock n'Loc",
+    "slug": {
+      "_type": "slug",
+      "current": "20260516-rock-n-loc"
+    },
+    "date": "2026-05-16",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Rock n'Loc",
+    "venueUrl": "https://www.rocknloc.de/",
+    "mapsUrl": "https://maps.app.goo.gl/8qrQHvmyboTLZkph9",
+    "location": "Markt Wald",
+    "description": "Rock n'Loc , Markt Wald\nFestival mit 11 Bands, unter anderem Dynazty , FM , Dare",
+    "relatedLinks": [
+      {
+        "label": "Rock n'Loc",
+        "url": "https://www.rocknloc.de/"
+      },
+      {
+        "label": "Markt Wald",
+        "url": "https://maps.app.goo.gl/8qrQHvmyboTLZkph9"
+      },
+      {
+        "label": "Dynazty",
+        "url": "https://www.facebook.com/dynaztyband/?locale=de_DE"
+      },
+      {
+        "label": "FM",
+        "url": "https://fmofficial.com/"
+      },
+      {
+        "label": "Dare",
+        "url": "https://www.darebandofficial.com/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20260328-07",
+    "_type": "gig",
+    "title": "86. Gringos Saloon Konzert",
+    "slug": {
+      "_type": "slug",
+      "current": "20260328-86-gringos-saloon-konzert"
+    },
+    "date": "2026-03-28",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "86. Gringos Saloon Konzert",
+    "venueUrl": "https://country-gringos.de/event/86-gringos-saloon-konzerte/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "86. Gringos Saloon Konzert , Saloon/Vereinshein, Moosinning\nmit Dust my Roof und Rockwork",
+    "relatedLinks": [
+      {
+        "label": "86. Gringos Saloon Konzert",
+        "url": "https://country-gringos.de/event/86-gringos-saloon-konzerte/"
+      },
+      {
+        "label": "Dust my Roof",
+        "url": "https://dustmyroof.de/"
+      },
+      {
+        "label": "Rockwork",
+        "url": "https://www.facebook.com/p/Rockwork-100063969218372/?locale=de_DE"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20260321-08",
+    "_type": "gig",
+    "title": "Allacher Schießstätte",
+    "slug": {
+      "_type": "slug",
+      "current": "20260321-allacher-schie-st-tte"
+    },
+    "date": "2026-03-21",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Allacher Schießstätte",
+    "venueUrl": "https://www.allacher-schiessstaette.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Allacher Schießstätte , München-Allach\nmit Isar Punch und Roxboxx",
+    "relatedLinks": [
+      {
+        "label": "Allacher Schießstätte",
+        "url": "https://www.allacher-schiessstaette.de/"
+      },
+      {
+        "label": "Isar Punch",
+        "url": "https://www.facebook.com/p/Isar-Punch-61571674464216/"
+      },
+      {
+        "label": "Roxboxx",
+        "url": "http://www.roxboxx.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20251227-09",
+    "_type": "gig",
+    "title": "Weiler zum Stein, Leutenbach",
+    "slug": {
+      "_type": "slug",
+      "current": "20251227-weiler-zum-stein-leutenbach"
+    },
+    "date": "2025-12-27",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Weiler zum Stein, Leutenbach",
+    "venueUrl": "https://maps.app.goo.gl/7c8QDxm3GTCKs5jz9",
+    "mapsUrl": "https://maps.app.goo.gl/7c8QDxm3GTCKs5jz9",
+    "location": "Weiler zum Stein, Leutenbach",
+    "description": "Dalmenkeller 25 Vol.2 im Landgasthof zum Löwen in Weiler zum Stein, Leutenbach\nmit Dust&Bones und Bruno Moretti Experience",
+    "relatedLinks": [
+      {
+        "label": "Weiler zum Stein, Leutenbach",
+        "url": "https://maps.app.goo.gl/7c8QDxm3GTCKs5jz9"
+      },
+      {
+        "label": "Dust&Bones",
+        "url": "https://www.dustandbones.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20251128-10",
+    "_type": "gig",
+    "title": "Theaterwirtschaft Szenerie",
+    "slug": {
+      "_type": "slug",
+      "current": "20251128-theaterwirtschaft-szenerie"
+    },
+    "date": "2025-11-28",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Theaterwirtschaft Szenerie",
+    "venueUrl": "https://theater-drehleier.de/szenerie",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Theaterwirtschaft Szenerie\nmit Jesters Grace\nund Crazy69",
+    "relatedLinks": [
+      {
+        "label": "Theaterwirtschaft Szenerie",
+        "url": "https://theater-drehleier.de/szenerie"
+      },
+      {
+        "label": "Jesters Grace",
+        "url": "https://www.facebook.com/JestersGrace/"
+      },
+      {
+        "label": "Crazy69",
+        "url": "https://crazy69.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20251108-11",
+    "_type": "gig",
+    "title": "Brandner Kaspar Aichach",
+    "slug": {
+      "_type": "slug",
+      "current": "20251108-brandner-kaspar-aichach"
+    },
+    "date": "2025-11-08",
+    "dateNote": null,
+    "status": "cancelled",
+    "venue": "Brandner Kaspar Aichach",
+    "venueUrl": "https://brandner-kaspar.metro.bar/?lang=de",
+    "mapsUrl": "https://maps.app.goo.gl/vCmv9nscMisL2rkUA",
+    "location": "Ritterweg 2, 86551 Aichach",
+    "description": "Leider ABGESAGT vom Veranstalter\nBrandner Kaspar Aichach , Ritterweg 2, 86551 Aichach\nmit Button Rouge",
+    "relatedLinks": [
+      {
+        "label": "Brandner Kaspar Aichach",
+        "url": "https://brandner-kaspar.metro.bar/?lang=de"
+      },
+      {
+        "label": "Ritterweg 2, 86551 Aichach",
+        "url": "https://maps.app.goo.gl/vCmv9nscMisL2rkUA"
+      },
+      {
+        "label": "Button Rouge",
+        "url": "https://www.button-rouge.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20250628-12",
+    "_type": "gig",
+    "title": "Germeringer Musiknacht",
+    "slug": {
+      "_type": "slug",
+      "current": "20250628-germeringer-musiknacht"
+    },
+    "date": "2025-06-28",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Germeringer Musiknacht",
+    "venueUrl": "https://www.stadthalle-germering.de/veranstaltungen/germeringer-musiknacht-2025/",
+    "mapsUrl": "https://maps.app.goo.gl/uKouKJfzKh6eQcLy5",
+    "location": "Stadthalle Germering, Amadeussaal, Landsbergerstr. 39, 82110 Germering",
+    "description": "Germeringer Musiknacht , Stadthalle Germering, Amadeussaal, Landsbergerstr. 39, 82110 Germering",
+    "relatedLinks": [
+      {
+        "label": "Germeringer Musiknacht",
+        "url": "https://www.stadthalle-germering.de/veranstaltungen/germeringer-musiknacht-2025/"
+      },
+      {
+        "label": "Stadthalle Germering, Amadeussaal, Landsbergerstr. 39, 82110 Germering",
+        "url": "https://maps.app.goo.gl/uKouKJfzKh6eQcLy5"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20250222-13",
+    "_type": "gig",
+    "title": "Villa Flora",
+    "slug": {
+      "_type": "slug",
+      "current": "20250222-villa-flora"
+    },
+    "date": "2025-02-22",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Villa Flora",
+    "venueUrl": "https://glanzundgorilla.de/villa-flora/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Villa Flora\nmit Apetrap\nund Isar Punch",
+    "relatedLinks": [
+      {
+        "label": "Villa Flora",
+        "url": "https://glanzundgorilla.de/villa-flora/"
+      },
+      {
+        "label": "Apetrap",
+        "url": "https://www.facebook.com/share/18VC9LXjEn/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Isar Punch",
+        "url": "https://www.instagram.com/isar.punch?igsh=MWZ0OWMxaGJqenFzcQ=="
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20250221-14",
+    "_type": "gig",
+    "title": "Theater Drehleier",
+    "slug": {
+      "_type": "slug",
+      "current": "20250221-theater-drehleier"
+    },
+    "date": "2025-02-21",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Theater Drehleier",
+    "venueUrl": "https://theater-drehleier.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Theater Drehleier\nmit Rockguard",
+    "relatedLinks": [
+      {
+        "label": "Theater Drehleier",
+        "url": "https://theater-drehleier.de/"
+      },
+      {
+        "label": "Rockguard",
+        "url": "https://www.facebook.com/p/Rockguard-Munich-Power-100063634238054/%3Flocale%3Dde_DE&ved=2ahUKEwj4meTNguyKAxXRFFkFHT0yPfoQFnoECBoQAQ&usg=AOvVaw0qnALa9Gs0guuFybxeGhor"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20241206-15",
+    "_type": "gig",
+    "title": "Allacher Schießstätte",
+    "slug": {
+      "_type": "slug",
+      "current": "20241206-allacher-schie-st-tte"
+    },
+    "date": "2024-12-06",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Allacher Schießstätte",
+    "venueUrl": "https://www.allacher-schiessstaette.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Allacher Schießstätte\nmit ISAR PUNCH und Jester's Tears",
+    "relatedLinks": [
+      {
+        "label": "Allacher Schießstätte",
+        "url": "https://www.allacher-schiessstaette.de/"
+      },
+      {
+        "label": "Jester's Tears",
+        "url": "https://www.jesters-tears.de"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20241018-16",
+    "_type": "gig",
+    "title": "Séventaisie",
+    "slug": {
+      "_type": "slug",
+      "current": "20241018-s-ventaisie"
+    },
+    "date": "2024-10-18",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Séventaisie",
+    "venueUrl": "https://www.backstagepro.de/seventaisie",
+    "mapsUrl": null,
+    "location": null,
+    "description": "mit Séventaisie\nim Theater Drehleier , München",
+    "relatedLinks": [
+      {
+        "label": "Séventaisie",
+        "url": "https://www.backstagepro.de/seventaisie"
+      },
+      {
+        "label": "Theater Drehleier",
+        "url": "https://theater-drehleier.de"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20240706-17",
+    "_type": "gig",
+    "title": "Open Park Festival",
+    "slug": {
+      "_type": "slug",
+      "current": "20240706-open-park-festival"
+    },
+    "date": "2024-07-06",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Open Park Festival",
+    "venueUrl": "https://www.open-park.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Open Park Festival , Pfaffenhofen an der Ilm",
+    "relatedLinks": [
+      {
+        "label": "Open Park Festival",
+        "url": "https://www.open-park.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20240427-18",
+    "_type": "gig",
+    "title": "Dorfen rockt",
+    "slug": {
+      "_type": "slug",
+      "current": "20240427-dorfen-rockt"
+    },
+    "date": "2024-04-27",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Dorfen rockt",
+    "venueUrl": "https://www.sinnflut.biz/home",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Dorfen rockt , im E3 Eiskeller ,\nmit What about Bob\nund Proken",
+    "relatedLinks": [
+      {
+        "label": "Dorfen rockt",
+        "url": "https://www.sinnflut.biz/home"
+      },
+      {
+        "label": "E3 Eiskeller",
+        "url": "https://www.e3dorfen.de/eiskeller/"
+      },
+      {
+        "label": "What about Bob",
+        "url": "https://www.facebook.com/p/What-about-Bob-100063902346581/?locale=de_DE"
+      },
+      {
+        "label": "Proken",
+        "url": "https://www.proken.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20240406-19",
+    "_type": "gig",
+    "title": "live bei der Rabenbruderschaft, Holzkirchen/Sufferloh",
+    "slug": {
+      "_type": "slug",
+      "current": "20240406-live-bei-der-rabenbruderschaft-holzkirchen-sufferloh"
+    },
+    "date": "2024-04-06",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": null,
+    "venueUrl": null,
+    "mapsUrl": null,
+    "location": null,
+    "description": "live bei der Rabenbruderschaft, Holzkirchen/Sufferloh",
+    "relatedLinks": [],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20240316-20",
+    "_type": "gig",
+    "title": "Allacher Schießstätte",
+    "slug": {
+      "_type": "slug",
+      "current": "20240316-allacher-schie-st-tte"
+    },
+    "date": "2024-03-16",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Allacher Schießstätte",
+    "venueUrl": "https://www.allacher-schiessstaette.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Allacher Schießstätte , mit\nReverend Hound und\nGet Zeppelin",
+    "relatedLinks": [
+      {
+        "label": "Allacher Schießstätte",
+        "url": "https://www.allacher-schiessstaette.de/"
+      },
+      {
+        "label": "Reverend Hound",
+        "url": "http://www.reverendhound.com/"
+      },
+      {
+        "label": "Get Zeppelin",
+        "url": "https://getzeppelin.de"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20231216-21",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20231216-eddy-s-rock-club"
+    },
+    "date": "2023-12-16",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Eddy's Rock Club ,\nmit Proken",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de/"
+      },
+      {
+        "label": "Proken",
+        "url": "https://www.proken.de"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20231007-22",
+    "_type": "gig",
+    "title": "Legends Lounge",
+    "slug": {
+      "_type": "slug",
+      "current": "20231007-legends-lounge"
+    },
+    "date": "2023-10-07",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Legends Lounge",
+    "venueUrl": "http://www.legends-lounge.info/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Legends Lounge ,\nmit The New Wild Roses",
+    "relatedLinks": [
+      {
+        "label": "Legends Lounge",
+        "url": "http://www.legends-lounge.info/"
+      },
+      {
+        "label": "The New Wild Roses",
+        "url": "https://www.the-new-wild-roses.com/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20230730-23",
+    "_type": "gig",
+    "title": "Love, Peace and Harmony Festival",
+    "slug": {
+      "_type": "slug",
+      "current": "20230730-love-peace-and-harmony-festival"
+    },
+    "date": "2023-07-30",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Love, Peace and Harmony Festival",
+    "venueUrl": "https://www.facebook.com/events/262017242965718",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Love, Peace and Harmony Festival ,\nSchwarzhubers Abenteuerland , München Allach",
+    "relatedLinks": [
+      {
+        "label": "Love, Peace and Harmony Festival",
+        "url": "https://www.facebook.com/events/262017242965718"
+      },
+      {
+        "label": "Schwarzhubers Abenteuerland",
+        "url": "https://www.brutal-regional.bayern"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20221217-24",
+    "_type": "gig",
+    "title": "LOK Freimann",
+    "slug": {
+      "_type": "slug",
+      "current": "20221217-lok-freimann"
+    },
+    "date": "2022-12-17",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "LOK Freimann",
+    "venueUrl": "https://www.lok-freimann.de/konzerte/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Heavy Christmas in der LOK Freimann , mit Reverend Hound und Downer Ending",
+    "relatedLinks": [
+      {
+        "label": "LOK Freimann",
+        "url": "https://www.lok-freimann.de/konzerte/"
+      },
+      {
+        "label": "Reverend Hound",
+        "url": "http://www.reverendhound.com/"
+      },
+      {
+        "label": "Downer Ending",
+        "url": "https://www.facebook.com/downerendingmusic/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20221118-25",
+    "_type": "gig",
+    "title": "Legends Lounge",
+    "slug": {
+      "_type": "slug",
+      "current": "20221118-legends-lounge"
+    },
+    "date": "2022-11-18",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Legends Lounge",
+    "venueUrl": "http://www.legends-lounge.info/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Legends Lounge\nmit Vambier und Friends",
+    "relatedLinks": [
+      {
+        "label": "Legends Lounge",
+        "url": "http://www.legends-lounge.info/"
+      },
+      {
+        "label": "Vambier",
+        "url": "https://www.facebook.com/Vambier.Official"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20221001-26",
+    "_type": "gig",
+    "title": "Vanja Sky",
+    "slug": {
+      "_type": "slug",
+      "current": "20221001-vanja-sky"
+    },
+    "date": "2022-10-01",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Vanja Sky",
+    "venueUrl": "https://vanjasky.rocks/home-de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Support für Vanja Sky , Legends Lounge",
+    "relatedLinks": [
+      {
+        "label": "Vanja Sky",
+        "url": "https://vanjasky.rocks/home-de/"
+      },
+      {
+        "label": "Legends Lounge",
+        "url": "http://www.legends-lounge.info/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20220430-27",
+    "_type": "gig",
+    "title": "E3 Eiskeller",
+    "slug": {
+      "_type": "slug",
+      "current": "20220430-e3-eiskeller"
+    },
+    "date": "2022-04-30",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "E3 Eiskeller",
+    "venueUrl": "https://www.e3dorfen.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Dorfen Rockt , im E3 Eiskeller , 84405 Dorfen\nmit\nDon't drop the sword und Dunkle Zeiten",
+    "relatedLinks": [
+      {
+        "label": "E3 Eiskeller",
+        "url": "https://www.e3dorfen.de/"
+      },
+      {
+        "label": "Don't drop the sword",
+        "url": "http://www.dontdropthesword.de/"
+      },
+      {
+        "label": "Dunkle Zeiten",
+        "url": "https://www.facebook.com/DunkleZeitenBand/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20220409-28",
+    "_type": "gig",
+    "title": "Augsbangers Metal Meeting",
+    "slug": {
+      "_type": "slug",
+      "current": "20220409-augsbangers-metal-meeting"
+    },
+    "date": "2022-04-09",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Augsbangers Metal Meeting",
+    "venueUrl": "https://www.augsbangers.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Augsbangers Metal Meeting\nin der Ballonfabrik Augsburg\nFestival mit sechs Bands!",
+    "relatedLinks": [
+      {
+        "label": "Augsbangers Metal Meeting",
+        "url": "https://www.augsbangers.de/"
+      },
+      {
+        "label": "Ballonfabrik Augsburg",
+        "url": "https://ballonfabrik.org"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20220325-29",
+    "_type": "gig",
+    "title": "Legends Lounge",
+    "slug": {
+      "_type": "slug",
+      "current": "20220325-legends-lounge"
+    },
+    "date": "2022-03-25",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Legends Lounge",
+    "venueUrl": "http://www.legends-lounge.info/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Legends Lounge\nmit Art of Delusion",
+    "relatedLinks": [
+      {
+        "label": "Legends Lounge",
+        "url": "http://www.legends-lounge.info/"
+      },
+      {
+        "label": "Art of Delusion",
+        "url": "http://www.art-of-delusion.com"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20211030-30",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20211030-eddy-s-rock-club"
+    },
+    "date": "2021-10-30",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Eddy's Rock Club\nmit Crazy69",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de/"
+      },
+      {
+        "label": "Crazy69",
+        "url": "https://crazy69.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20210731-31",
+    "_type": "gig",
+    "title": "Sinnflut Festival 2021",
+    "slug": {
+      "_type": "slug",
+      "current": "20210731-sinnflut-festival-2021"
+    },
+    "date": "2021-07-31",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Sinnflut Festival 2021",
+    "venueUrl": "https://www.sinnflut.biz/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Sinnflut Festival 2021 , Erding",
+    "relatedLinks": [
+      {
+        "label": "Sinnflut Festival 2021",
+        "url": "https://www.sinnflut.biz/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20201017-32",
+    "_type": "gig",
+    "title": "Legends Lounge",
+    "slug": {
+      "_type": "slug",
+      "current": "20201017-legends-lounge"
+    },
+    "date": "2020-10-17",
+    "dateNote": null,
+    "status": "cancelled",
+    "venue": "Legends Lounge",
+    "venueUrl": "http://www.legends-lounge.info/",
+    "mapsUrl": "https://goo.gl/maps/g9FAnM45BmaabxTW8",
+    "location": "Ilzweg 1, Olching",
+    "description": "ABGESAGT\nLegends Lounge ,\nIlzweg 1, Olching",
+    "relatedLinks": [
+      {
+        "label": "Legends Lounge",
+        "url": "http://www.legends-lounge.info/"
+      },
+      {
+        "label": "Ilzweg 1, Olching",
+        "url": "https://goo.gl/maps/g9FAnM45BmaabxTW8"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20200926-33",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20200926-eddy-s-rock-club"
+    },
+    "date": "2020-09-26",
+    "dateNote": null,
+    "status": "cancelled",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "ABGESAGT live im Rock-Biergarten, veranstaltet von Eddy's Rock Club im\nBiergarten der ehemaligen Nachtkantine, München",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-summer-2020-34",
+    "_type": "gig",
+    "title": "Theatron Musiksommer im Olympiapark",
+    "slug": {
+      "_type": "slug",
+      "current": "summer-2020-theatron-musiksommer-im-olympiapark"
+    },
+    "date": null,
+    "dateNote": "Sommer 2020",
+    "status": "cancelled",
+    "venue": "Theatron Musiksommer im Olympiapark",
+    "venueUrl": "https://theatron.net/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "ABGESAGT Theatron Musiksommer im Olympiapark ,\nMünchen",
+    "relatedLinks": [
+      {
+        "label": "Theatron Musiksommer im Olympiapark",
+        "url": "https://theatron.net/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20200801-35",
+    "_type": "gig",
+    "title": "Sinnflut-Festival",
+    "slug": {
+      "_type": "slug",
+      "current": "20200801-sinnflut-festival"
+    },
+    "date": "2020-08-01",
+    "dateNote": null,
+    "status": "cancelled",
+    "venue": "Sinnflut-Festival",
+    "venueUrl": "https://www.sinnflut.biz/sinnflut_festival",
+    "mapsUrl": null,
+    "location": null,
+    "description": "ABGESAGT Sinnflut-Festival ,\n85435 Erding",
+    "relatedLinks": [
+      {
+        "label": "Sinnflut-Festival",
+        "url": "https://www.sinnflut.biz/sinnflut_festival"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20200424-36",
+    "_type": "gig",
+    "title": "ABGESAGT Dorfen rockt!, 84405 Dorfen",
+    "slug": {
+      "_type": "slug",
+      "current": "20200424-abgesagt-dorfen-rockt-84405-dorfen"
+    },
+    "date": "2020-04-24",
+    "dateNote": null,
+    "status": "cancelled",
+    "venue": null,
+    "venueUrl": null,
+    "mapsUrl": null,
+    "location": null,
+    "description": "ABGESAGT Dorfen rockt!, 84405 Dorfen",
+    "relatedLinks": [],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20200321-37",
+    "_type": "gig",
+    "title": "ABGESAGT Qyotee Club and Stage (im Lucy's), 82216 Maisach",
+    "slug": {
+      "_type": "slug",
+      "current": "20200321-abgesagt-qyotee-club-and-stage-im-lucy-s-82216-maisach"
+    },
+    "date": "2020-03-21",
+    "dateNote": null,
+    "status": "cancelled",
+    "venue": null,
+    "venueUrl": null,
+    "mapsUrl": null,
+    "location": null,
+    "description": "ABGESAGT Qyotee Club and Stage (im Lucy's), 82216 Maisach",
+    "relatedLinks": [],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20200201-38",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20200201-eddy-s-rock-club"
+    },
+    "date": "2020-02-01",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Eddy's Rock Club ,\nmit Pussies on the Dancefloor",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de/"
+      },
+      {
+        "label": "Pussies on the Dancefloor",
+        "url": "https://www.pussies-live.com/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20191214-39",
+    "_type": "gig",
+    "title": "LOK Freimann",
+    "slug": {
+      "_type": "slug",
+      "current": "20191214-lok-freimann"
+    },
+    "date": "2019-12-14",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "LOK Freimann",
+    "venueUrl": "http://www.lok-freimann.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Weihnachtskonzert in der LOK Freimann ,\nmit Art of Delusion ,\nMeltdown-X und\nWhael",
+    "relatedLinks": [
+      {
+        "label": "LOK Freimann",
+        "url": "http://www.lok-freimann.de/"
+      },
+      {
+        "label": "Art of Delusion",
+        "url": "http://www.art-of-delusion.com"
+      },
+      {
+        "label": "Meltdown-X",
+        "url": "https://www.facebook.com/meltdownxx/"
+      },
+      {
+        "label": "Whael",
+        "url": "https://de-de.facebook.com/WhaelOfficial"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20190330-40",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20190330-eddy-s-rock-club"
+    },
+    "date": "2019-03-30",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Eddy's Rock Club ,\nmit Glory Daze",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de/"
+      },
+      {
+        "label": "Glory Daze",
+        "url": "https://glorydaze.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20190215-41",
+    "_type": "gig",
+    "title": "Legends Lounge",
+    "slug": {
+      "_type": "slug",
+      "current": "20190215-legends-lounge"
+    },
+    "date": "2019-02-15",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Legends Lounge",
+    "venueUrl": "http://www.legends-lounge.info/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Legends Lounge ,\nOlching mit Jester's Tears",
+    "relatedLinks": [
+      {
+        "label": "Legends Lounge",
+        "url": "http://www.legends-lounge.info/"
+      },
+      {
+        "label": "Jester's Tears",
+        "url": "https://www.jesters-tears.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20181215-42",
+    "_type": "gig",
+    "title": "LOK Freimann",
+    "slug": {
+      "_type": "slug",
+      "current": "20181215-lok-freimann"
+    },
+    "date": "2018-12-15",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "LOK Freimann",
+    "venueUrl": "http://www.lok-freimann.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Weihnachtskonzert in der LOK Freimann ,\nmit Burning Pandas , Mask und\nFat Grizzly",
+    "relatedLinks": [
+      {
+        "label": "LOK Freimann",
+        "url": "http://www.lok-freimann.de/"
+      },
+      {
+        "label": "Burning Pandas",
+        "url": "https://www.facebook.com/burnpan/"
+      },
+      {
+        "label": "Mask",
+        "url": "http://www.mask-band.de"
+      },
+      {
+        "label": "Fat Grizzly",
+        "url": "https://de-de.facebook.com/Fat.Grizzly.Munich/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20181109-43",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20181109-eddy-s-rock-club"
+    },
+    "date": "2018-11-09",
+    "dateNote": null,
+    "status": "cancelled",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "ABGESAGT vom Veranstalter Eddy's Rock Club",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20181005-44",
+    "_type": "gig",
+    "title": "Route 66",
+    "slug": {
+      "_type": "slug",
+      "current": "20181005-route-66"
+    },
+    "date": "2018-10-05",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Route 66",
+    "venueUrl": "http://www.jkhroute66.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Route 66 ,\nVockestr. 11, 85540 Haar, mit Mask",
+    "relatedLinks": [
+      {
+        "label": "Route 66",
+        "url": "http://www.jkhroute66.de/"
+      },
+      {
+        "label": "Mask",
+        "url": "http://www.mask-band.de"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20180421-45",
+    "_type": "gig",
+    "title": "LOK Freimann",
+    "slug": {
+      "_type": "slug",
+      "current": "20180421-lok-freimann"
+    },
+    "date": "2018-04-21",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "LOK Freimann",
+    "venueUrl": "http://www.lok-freimann.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "LOK Freimann ,\nmit Hamlet Chair und\nChromantic Flash",
+    "relatedLinks": [
+      {
+        "label": "LOK Freimann",
+        "url": "http://www.lok-freimann.de/"
+      },
+      {
+        "label": "Hamlet Chair",
+        "url": "https://de-de.facebook.com/Hamlet-Chair-382795511789394/"
+      },
+      {
+        "label": "Chromantic Flash",
+        "url": "http://www.chromanticflash.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20180209-46",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20180209-eddy-s-rock-club"
+    },
+    "date": "2018-02-09",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Eddy's Rock Club , Atelierstr. 16, 81671 München, mit Screaming Nightmare",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de/"
+      },
+      {
+        "label": "Screaming Nightmare",
+        "url": "http://www.screaming-nightmare.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20171215-47",
+    "_type": "gig",
+    "title": "Rumours Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20171215-rumours-club"
+    },
+    "date": "2017-12-15",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Rumours Club",
+    "venueUrl": "https://www.facebook.com/rumoursclubmunich/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Rumours Club , Friedenstr. 10, 81671 München, mit Sara Sucks",
+    "relatedLinks": [
+      {
+        "label": "Rumours Club",
+        "url": "https://www.facebook.com/rumoursclubmunich/"
+      },
+      {
+        "label": "Sara Sucks",
+        "url": "http://www.sarasucks.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20171111-48",
+    "_type": "gig",
+    "title": "Garage DeLuxe",
+    "slug": {
+      "_type": "slug",
+      "current": "20171111-garage-deluxe"
+    },
+    "date": "2017-11-11",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Garage DeLuxe",
+    "venueUrl": "http://www.garagedeluxe.de",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Garage DeLuxe , München, mit MICHAEL BORMANN's JADED HARD",
+    "relatedLinks": [
+      {
+        "label": "Garage DeLuxe",
+        "url": "http://www.garagedeluxe.de"
+      },
+      {
+        "label": "MICHAEL BORMANN's JADED HARD",
+        "url": "http://www.michaelbormannpage.de"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20170922-49",
+    "_type": "gig",
+    "title": "Soundcafe",
+    "slug": {
+      "_type": "slug",
+      "current": "20170922-soundcafe"
+    },
+    "date": "2017-09-22",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Soundcafe",
+    "venueUrl": "http://www.jkw-soundcafe.de",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Soundcafe , Traubestraße 5, 80805 München, mit Meltdown-X und Igel vs. Shark",
+    "relatedLinks": [
+      {
+        "label": "Soundcafe",
+        "url": "http://www.jkw-soundcafe.de"
+      },
+      {
+        "label": "Meltdown-X",
+        "url": "https://www.facebook.com/meltdownxx/"
+      },
+      {
+        "label": "Igel vs. Shark",
+        "url": "https://www.facebook.com/igelvsshark/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20170524-50",
+    "_type": "gig",
+    "title": "Legends Lounge",
+    "slug": {
+      "_type": "slug",
+      "current": "20170524-legends-lounge"
+    },
+    "date": "2017-05-24",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Legends Lounge",
+    "venueUrl": "http://www.legends-lounge.info/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Legends Lounge , Olching, mit Rockmore",
+    "relatedLinks": [
+      {
+        "label": "Legends Lounge",
+        "url": "http://www.legends-lounge.info/"
+      },
+      {
+        "label": "Rockmore",
+        "url": "http://www.rockmore.net"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20170128-51",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20170128-eddy-s-rock-club"
+    },
+    "date": "2017-01-28",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Neuer Eddy's Rock Club , München, mit Meltdown-X",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de"
+      },
+      {
+        "label": "Meltdown-X",
+        "url": "https://www.facebook.com/meltdownxx/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20170113-52",
+    "_type": "gig",
+    "title": "P2",
+    "slug": {
+      "_type": "slug",
+      "current": "20170113-p2"
+    },
+    "date": "2017-01-13",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "P2",
+    "venueUrl": "http://www.p2-club.de",
+    "mapsUrl": null,
+    "location": null,
+    "description": "P2 , Rosenheim, mit Meltdown-X",
+    "relatedLinks": [
+      {
+        "label": "P2",
+        "url": "http://www.p2-club.de"
+      },
+      {
+        "label": "Meltdown-X",
+        "url": "https://www.facebook.com/meltdownxx/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20161223-53",
+    "_type": "gig",
+    "title": "KYESO Music Bar",
+    "slug": {
+      "_type": "slug",
+      "current": "20161223-kyeso-music-bar"
+    },
+    "date": "2016-12-23",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "KYESO Music Bar",
+    "venueUrl": "http://kyeso.de",
+    "mapsUrl": null,
+    "location": null,
+    "description": "KYESO Music Bar , München, mit Soulhunter",
+    "relatedLinks": [
+      {
+        "label": "KYESO Music Bar",
+        "url": "http://kyeso.de"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20161119-54",
+    "_type": "gig",
+    "title": "Schmelzers, Germering",
+    "slug": {
+      "_type": "slug",
+      "current": "20161119-schmelzers-germering"
+    },
+    "date": "2016-11-19",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": null,
+    "venueUrl": null,
+    "mapsUrl": null,
+    "location": null,
+    "description": "Schmelzers, Germering",
+    "relatedLinks": [],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20160422-55",
+    "_type": "gig",
+    "title": "Backstage",
+    "slug": {
+      "_type": "slug",
+      "current": "20160422-backstage"
+    },
+    "date": "2016-04-22",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Backstage",
+    "venueUrl": "http://www.backstage.info/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Backstage (Halle), München",
+    "relatedLinks": [
+      {
+        "label": "Backstage",
+        "url": "http://www.backstage.info/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20160319-56",
+    "_type": "gig",
+    "title": "Legends Lounge",
+    "slug": {
+      "_type": "slug",
+      "current": "20160319-legends-lounge"
+    },
+    "date": "2016-03-19",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Legends Lounge",
+    "venueUrl": "http://www.legends-lounge.info",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Legends Lounge , Olching, mit Hammerschmitt",
+    "relatedLinks": [
+      {
+        "label": "Legends Lounge",
+        "url": "http://www.legends-lounge.info"
+      },
+      {
+        "label": "Hammerschmitt",
+        "url": "http://hammerschmitt.com/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20160312-57",
+    "_type": "gig",
+    "title": "Feierwerk",
+    "slug": {
+      "_type": "slug",
+      "current": "20160312-feierwerk"
+    },
+    "date": "2016-03-12",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Feierwerk",
+    "venueUrl": "http://www.feierwerk.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Feierwerk , München, Heavy-Storm-Festival",
+    "relatedLinks": [
+      {
+        "label": "Feierwerk",
+        "url": "http://www.feierwerk.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20160304-58",
+    "_type": "gig",
+    "title": "Cordobar",
+    "slug": {
+      "_type": "slug",
+      "current": "20160304-cordobar"
+    },
+    "date": "2016-03-04",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Cordobar",
+    "venueUrl": "http://www.cordobar.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Cordobar , Germering",
+    "relatedLinks": [
+      {
+        "label": "Cordobar",
+        "url": "http://www.cordobar.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20160220-59",
+    "_type": "gig",
+    "title": "Garage DeLuxe",
+    "slug": {
+      "_type": "slug",
+      "current": "20160220-garage-deluxe"
+    },
+    "date": "2016-02-20",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Garage DeLuxe",
+    "venueUrl": "http://garagedeluxe.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Garage DeLuxe , München, mit Thorny Roses",
+    "relatedLinks": [
+      {
+        "label": "Garage DeLuxe",
+        "url": "http://garagedeluxe.de/"
+      },
+      {
+        "label": "Thorny Roses",
+        "url": "http://www.thornyroses-online.de"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20160130-60",
+    "_type": "gig",
+    "title": "PUC",
+    "slug": {
+      "_type": "slug",
+      "current": "20160130-puc"
+    },
+    "date": "2016-01-30",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "PUC",
+    "venueUrl": "http://www.puc-puchheim.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "PUC , Puchheim",
+    "relatedLinks": [
+      {
+        "label": "PUC",
+        "url": "http://www.puc-puchheim.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20160115-61",
+    "_type": "gig",
+    "title": "Eddy's Rock Club",
+    "slug": {
+      "_type": "slug",
+      "current": "20160115-eddy-s-rock-club"
+    },
+    "date": "2016-01-15",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Eddy's Rock Club",
+    "venueUrl": "http://eddys-rock-club.de",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Eddy's Rock Club , München, mit Hammerschmitt",
+    "relatedLinks": [
+      {
+        "label": "Eddy's Rock Club",
+        "url": "http://eddys-rock-club.de"
+      },
+      {
+        "label": "Hammerschmitt",
+        "url": "http://hammerschmitt.com/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20160108-62",
+    "_type": "gig",
+    "title": "Backstage",
+    "slug": {
+      "_type": "slug",
+      "current": "20160108-backstage"
+    },
+    "date": "2016-01-08",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Backstage",
+    "venueUrl": "http://www.backstage.info/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Backstage (Club), München",
+    "relatedLinks": [
+      {
+        "label": "Backstage",
+        "url": "http://www.backstage.info/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20151016-63",
+    "_type": "gig",
+    "title": "Cordobar",
+    "slug": {
+      "_type": "slug",
+      "current": "20151016-cordobar"
+    },
+    "date": "2015-10-16",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Cordobar",
+    "venueUrl": "http://www.cordobar.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Cordobar , Germering",
+    "relatedLinks": [
+      {
+        "label": "Cordobar",
+        "url": "http://www.cordobar.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  },
+  {
+    "_id": "legacy-20151008-64",
+    "_type": "gig",
+    "title": "Garage DeLuxe",
+    "slug": {
+      "_type": "slug",
+      "current": "20151008-garage-deluxe"
+    },
+    "date": "2015-10-08",
+    "dateNote": null,
+    "status": "confirmed",
+    "venue": "Garage DeLuxe",
+    "venueUrl": "http://garagedeluxe.de/",
+    "mapsUrl": null,
+    "location": null,
+    "description": "Garage DeLuxe , München",
+    "relatedLinks": [
+      {
+        "label": "Garage DeLuxe",
+        "url": "http://garagedeluxe.de/"
+      }
+    ],
+    "showInApp": true,
+    "showOnWebsite": true
+  }
+]

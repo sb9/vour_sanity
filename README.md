@@ -26,9 +26,30 @@ allow each published event to be included or excluded from those channels.
 
 ## Deploy the Studio
 
-Run `npm run deploy` and follow the Sanity CLI prompts to choose a Studio
-hostname. This deploys the editing interface; it does not publish app or website
-changes.
+The Studio is deployed at [vour.sanity.studio](https://vour.sanity.studio).
+To redeploy it after changing its schema or interface, run:
+
+```powershell
+npm run deploy -- --url vour --yes --schema-required
+```
+
+This deploys the editing interface; it does not publish app or website changes.
+
+## Import the original concert history
+
+The 63 original entries from the website are kept in `data/live-history.json`.
+To regenerate that file from the existing website table:
+
+```powershell
+python scripts/import_live_history.py ..\vour.rocks\pages\live.html
+```
+
+After authenticating with Sanity, import missing documents without overwriting
+existing edits:
+
+```powershell
+npm exec --yes sanity@latest -- documents create data/live-history.json --missing
+```
 
 The `production` dataset must allow public read access for unauthenticated app
 and website queries. Studio editing still requires an authorized Sanity account.

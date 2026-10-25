@@ -150,6 +150,34 @@ export const gigType = defineType({
       ],
     }),
     defineField({
+      name: 'relatedLinks',
+      title: 'Weitere Links aus der bisherigen Terminliste',
+      type: 'array',
+      group: 'program',
+      of: [
+        {
+          type: 'object',
+          name: 'relatedLink',
+          title: 'Link',
+          fields: [
+            defineField({
+              name: 'label',
+              title: 'Linktext',
+              type: 'string',
+              validation: (rule) => rule.required(),
+            }),
+            defineField({
+              name: 'url',
+              title: 'URL',
+              type: 'url',
+              validation: (rule) => rule.required(),
+            }),
+          ],
+          preview: {select: {title: 'label', subtitle: 'url'}},
+        },
+      ],
+    }),
+    defineField({
       name: 'image',
       title: 'Veranstaltungsbild',
       type: 'image',
